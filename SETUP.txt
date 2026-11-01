@@ -1,0 +1,12 @@
+GitHub Profile README package for Waqar Farid
+
+Setup:
+1. Create a public repository named exactly your GitHub username.
+2. Upload README.md and the assets/ folder from this package.
+3. Commit and push.
+
+Notes:
+- GitHub username and LinkedIn URL were not present in the supplied resume, so no profile-specific links or GitHub stats widgets were added.
+- Contact email was included from the resume; remove it if you do not want it public.
+- The resume lists technology interests/skills but does not name specific programming languages, frameworks, databases, or cloud tools, so those were not invented.
+- The highlights graphic counts listed resume entries, not quantified achievements.

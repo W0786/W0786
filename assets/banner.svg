@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Waqar Farid, Information Technology student and business development professional">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#312e81"/></linearGradient><linearGradient id="accent"><stop stop-color="#3b82f6"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<circle cx="1080" cy="30" r="170" fill="#6366f1" opacity=".12"><animate attributeName="r" values="150;180;150" dur="7s" repeatCount="indefinite"/></circle>
+<path d="M0 250 C250 190 450 320 700 235 S1050 200 1200 245" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 250 C250 190 450 320 700 235 S1050 200 1200 245;M0 235 C250 300 450 180 700 255 S1050 260 1200 220;M0 250 C250 190 450 320 700 235 S1050 200 1200 245"/></path>
+<text x="58" y="100" fill="#e0e7ff" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="4">HELLO, I'M</text>
+<text x="56" y="158" fill="#ffffff" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800">Waqar Farid</text>
+<text x="58" y="194" fill="#c4b5fd" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="22">BS Information Technology Student</text>
+<text x="58" y="224" fill="#cbd5e1" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="17">Business Development • Marketing • Office Administration</text>
+<g font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">
+<rect x="58" y="250" width="130" height="28" rx="14" fill="#1d4ed8"/><text x="123" y="268" text-anchor="middle" fill="#fff">Web Development</text>
+<rect x="198" y="250" width="70" height="28" rx="14" fill="#6d28d9"/><text x="233" y="268" text-anchor="middle" fill="#fff">AI</text>
+<rect x="278" y="250" width="112" height="28" rx="14" fill="#0f766e"/><text x="334" y="268" text-anchor="middle" fill="#fff">Graphic Design</text>
+<rect x="400" y="250" width="130" height="28" rx="14" fill="#4338ca"/><text x="465" y="268" text-anchor="middle" fill="#fff">Project Management</text>
+</g></svg>
